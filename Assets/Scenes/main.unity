@@ -688,6 +688,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   JumpForce: 12
   PlayerRigidBody: {fileID: 1258870386}
+  PlayerAnimator: {fileID: 1258870383}
 --- !u!1 &1521676050
 GameObject:
   m_ObjectHideFlags: 0
